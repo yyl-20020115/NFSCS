@@ -1,0 +1,20 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/NFS
+/mountd/obj/Debug
+/nfs/obj/Debug
+/nfsd/obj/Debug
+/portmapper/obj/Debug
+/rpclib/obj/Debug
+/Mountd/.vs
+/mountd/bin/Debug
+/NFS/.vs
+/NFS/bin/Debug
+/NFSD/.vs
+/nfsd/bin/Debug
+/PortMapper/.vs
+/PortMapper/bin/Debug
+/RPCLib/.vs
+/rpclib/bin/Debug
